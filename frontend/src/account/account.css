@@ -1,0 +1,138 @@
+.bg_login {
+    position: absolute;
+    top: 157px;
+    left: -19% !important;
+}
+.bg_signup {
+    position: absolute;
+    top: 157px;
+    left: -19% !important;
+}
+.loginform {
+    position: relative;
+    left: 117%;
+    top: 320px;
+}
+.signupform {
+    position: relative;
+    /* left: 0; */
+    top: 320px;
+}
+.link_register {
+    left: -140%;
+    top: -27px;
+    position: relative;
+    border: 2px solid rgb(71, 171, 254) !important;
+    border-radius: 30px;
+    height: 55px;
+    width: 45%;
+    text-align: center;
+    /* vertical-align: center !important; */
+}
+.link_login {
+    left: 148% !important;
+    top: -100px !important;
+    position: relative;
+    border: 2px solid rgb(71, 171, 254) !important;
+    border-radius: 30px;
+    height: 55px;
+    width: 45%;
+    text-align: center;
+    /* vertical-align: center !important; */
+}
+.btn_link_register{
+    color: white;
+    /* height: 105%;
+    width: 130%; */
+    margin-top: 5%;
+    font-size: medium;
+
+}
+.btn_link_login{
+    color: white;
+    /* height: 105%;
+    width: 130%; */
+    margin-top: 5%;
+    font-size: medium;
+
+}
+.btn_link_register:hover {
+    text-decoration: none;
+}
+.btn_link_login:hover {
+    text-decoration: none;
+}
+.btn_login {
+    color: white;
+    margin-top: 5%;
+    font-size: medium;
+    top: 42px;
+    position: relative;
+    border: 1px solid rgb(248, 154, 54);
+    border-radius: 30px;
+    height: 56px;
+    width: 100%;
+    text-align: center;
+    background-color: rgb(248, 154, 54);
+}
+.btn_signup {
+    color: white;
+    margin-top: 5%;
+    font-size: medium;
+    /* top: 42px; */
+    position: relative;
+    border: 1px solid rgb(248, 154, 54);
+    border-radius: 30px;
+    height: 56px;
+    width: 50%;
+    text-align: center;
+    background-color: rgb(248, 154, 54);
+}
+.form-group.col.text-right {
+    top: 55px;
+}
+.btn.btn-link.pr-0 {
+    color: grey;
+}
+.container {
+    /* text-align: center; */
+}
+#email, #password, #s_name, #s_email, #s_password {
+    border: 0px;
+    border-bottom: 1px solid grey;
+}
+.link_login {
+    left: 10%;
+    top: -27px;
+    position: relative;
+    border: 1px solid rgb(71, 171, 254);
+    border-radius: 30px;
+    height: 55px;
+    width: 45%;
+    text-align: center;
+    /* vertical-align: center !important; */
+}
+.form-group.col-11 {
+    padding-left: 0px !important;
+}
+.input-icons i { 
+    position: absolute; 
+} 
+  
+.input-icons { 
+    width: 100%; 
+    margin-bottom: 10px; 
+} 
+  
+.icon { 
+    padding: 10px; 
+    min-width: 40px; 
+}
+.input-icons {
+    display: flex;
+}
+svg {
+    margin-top: 15px;
+    /* position: relative;
+    vertical-align: middle !important; */
+}
